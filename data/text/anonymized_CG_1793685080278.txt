@@ -1,0 +1,91 @@
+CG
+
+UI/UX Designer
+
+Experience
+
+UI/UX Design Intern — Sponzo   Mar 2026 – Jun 2026
+
+• Designed 30+ high-fidelity screens for a creator-brand platform, improving visual consistency and handoff readiness.
+
+• Created user flows, wireframes, and interactive prototypes to validate journeys and reduce rework during development.
+
+• Built a design system with components, design tokens, and Auto Layout to accelerate UI consistency across products.
+
+• Conducted usability testing and heuristic evaluations to identify friction, and iterated designs to improve task success.
+
+• Collaborated with cross-functional teams to ensure smooth developer handoff, aligning specs and assets for implementation.
+
+• Delivered responsive, WCAG-accessible interfaces for web and mobile, ensuring inclusive user experiences.
+
+
+
+Projects / Deliverables
+
+CareAxis – Smart Healthcare Platform
+
+Led design of a mobile-first healthcare app using Figma to prototype and validate flows.
+
+• Reduced booking flow from ion.
+
+• Applied Information Architecture and visual hierarchy to improve findability and task completion.
+
+• Delivered interactive prototypes and accessible UI patterns aligned to Accessibility (WCAG).
+
+EventFlow – Event Discovery & Booking Platform
+
+Designed user flows, wireframes, and high-fidelity prototypes to validate discovery journeys.
+
+• Improved event navigation and search by restructuring information taxonomy and filters.
+
+• Conducted iterative usability testing to refine booking micro-interactions and reduce drop-off.
+
+• Created responsive mobile interfaces focused on seamless booking and discoverability.
+
+Government Service Portal – Web Application
+
+Produced user flows, information architecture, and interactive prototypes in Figma for citizen services.
+
+• Designed 25+ responsive screens covering end-to-end service workflows to simplify complex tasks.
+
+• Simplified navigation using user-centered design principles to reduce cognitive load.
+
+• Built reusable components to ensure consistency across service touchpoints.
+
+
+
+Education
+
+B.Tech in Electronics Communication Engineering
+
+Indian Institute of Information Technology Ranchi, 2025
+
+GPA: 7.40
+
+
+
+Certifications & Licenses
+
+• Figma UI/UX Design Certification (Udemy)
+
+
+
+Professional Summary
+
+UI/UX Designer with hands-on internship experience designing user-centered digital products. Proficient in User Research, Wireframing, Prototyping, Usability Testing, and Design Systems.
+
+Core Skills
+
+Platforms: Figma, FigJam, Miro, Jira, Notion, Adobe Photoshop
+
+Methods: User Research, Wireframing, Prototyping, Usability Testing, Information Architecture, Interaction Design, Design Systems, Accessibility (WCAG)
+
+Domain Knowledge: Mobile App Design, Web Design, Dashboard Design, Competitive Analysis, Product Thinking, A/B Testing
+
+Soft Skills: Collaboration, Problem Solving, Visual Design
+
+
+
+Tools / Technologies
+
+Figma, FigJam, Miro, Jira, Notion, Adobe Photoshop

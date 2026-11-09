@@ -1,0 +1,79 @@
+DP
+
+Product Designer
+
+Experience
+
+Product Designer — Self-directed design practice   Oct 2025 – Present
+
+• Manage design projects independently, integrating AI tools (Claude Code, Cursor) across research synthesis, ideation, and rapid prototyping.
+
+• Build speculative case studies covering wireframes, user flows, and high-fidelity designs, sharpening cross-platform design instincts for fast-paced product environments.
+
+
+
+Product Designer — Rebecca Everlene Trust   Oct 2024 – Aug 2025
+
+• Owned end-to-end UI/UX design across 10+ platform pages, independently managing design tasks and meeting agreed timelines within a remote agile squad.
+
+• Synthesised ionable insights, reshaping user flows and improving task completion rates.
+
+• Built a scalable Figma design system and style guide with reusable components, ensuring consistency across web and mobile.
+
+• Presented design concepts and rationale to cross-functional stakeholders at sprint reviews, incorporating feedback effectively before release.
+
+
+
+UX Designer — Culture Care Collective   Apr 2024 – Jul 2024
+
+• Designed a HIPAA compliant 13-screen mobile interface from wireframes through high-fidelity, working independently within a remote, cross-functional team.
+
+• Collaborated with engineers and a clinical researcher to maintain design integrity across all technical, compliance, and implementation requirements.
+
+• Product subsequently achieved 1,300+ engagements and 92% resource match rate ( report).
+
+
+
+UX Designer — Cambridge Local First   Jan 2023 – Apr 2023
+
+• Consolidated donation flow from s, eliminating the primary friction point.
+
+• Documented interaction flows and design rationale in a structured Figma file, enabling the development team to build.
+
+
+
+Education
+
+M.S. Digital Media & Communications, Interactive Design (UX)
+
+Northeastern University
+
+GPA: 3.92
+
+B.Tech Computer Science
+
+Nirma University
+
+GPA: 3.48
+
+
+
+Professional Summary
+
+Experienced Product Designer with a strong background in UI/UX design, specializing in cross-functional collaboration and user-centered design.
+
+Core Skills
+
+Platforms: Figma, Sketch, Adobe Creative Cloud
+
+Methods: Wireframing, Prototyping, User-Centred Design, Agile Workflows
+
+Domain Knowledge: UI/UX Design, Healthcare, Digital Media
+
+Soft Skills: Collaboration, Communication
+
+
+
+Tools / Technologies
+
+Jira, Principle, FigJam, Miro

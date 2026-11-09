@@ -1,0 +1,71 @@
+AR
+
+UI/UX & Visual Designer
+
+Experience
+
+UI/UX Design Collaboration — Nyx UI   null
+
+• Contributed to the UI design of a modern developer-focused component library.
+
+• Designed the visual identity and logo for Nyx UI.
+
+• Designed landing page layouts and interface concepts in Figma.
+
+• Improved visual hierarchy, navigation clarity, and component presentation.
+
+• Ensured visual consistency through thoughtful branding, clean layouts, and intuitive interface design.
+
+
+
+Projects / Deliverables
+
+Multi-Brand Campaign Platform
+
+Designed a mobile platform enabling brands to create and manage creator campaigns and community engagement.
+
+• Developed reusable UI patterns adapted for Spotify, Nike, and Starbucks while maintaining each brand's visual identity.
+
+• Designed authentication flows, campaign interfaces, and supporting marketing assets with a focus on usability and visual consistency.
+
+• Created cohesive layouts, typography, and interactions to deliver consistent cross-brand user experiences.
+
+Quick Start Playlist Experience
+
+Identified a UX gap where users hesitate to start unfamiliar Spotify playlists due to the lack of a clear entry point.
+
+• Conceptualized Quick Start, a feature that surfaces personalized starting tracks to help users begin listening with confidence.
+
+• Designed user flows and high-fidelity mobile interfaces in Figma while maintaining Spotify's existing interaction patterns.
+
+• Created a non-intrusive experience that improved content discoverability without disrupting the platform's recommendation system.
+
+
+
+Education
+
+Bachelor of Technology (B.Tech) in Computer Science & Information Technology
+
+Chameli Devi Group of Institutions (CDGI), 2022 – 2026
+
+
+
+Professional Summary
+
+UI/UX & Visual Designer focused on creating modern, visually engaging digital experiences with strong attention to usability, branding, and interface clarity.
+
+Core Skills
+
+Platforms: Figma, Framer (Basic), Notion, Canva
+
+Methods: UI Design, Visual Design, Branding, Wireframing, Prototyping, Responsive Design, Typography, Visual Hierarchy, Interaction Design, Landing Page Design, Mobile UI Design, Design Systems, AI-Assisted Design Workflows
+
+
+
+Awards / Honors
+
+• Creative Head – Citronics Tech Fest
+
+• Best Photographer – Citronics 2023 (Visual composition & creative excellence)
+
+• Recognized in multiple art and design competitions

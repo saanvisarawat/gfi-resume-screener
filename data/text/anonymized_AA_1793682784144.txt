@@ -1,0 +1,101 @@
+AA
+
+Graduate Engineer Trainee – Environment
+
+Experience
+
+Graduate Engineer Trainee (GET) – Environment — The Ramco Cements Limited   July 2025 – Present
+
+• Assisted in environmental compliance and securing statutory clearances (EC, CTE & CTO) for cement plants, mines and quarries covering major and minor minerals.
+
+• Participated in surveys and inspections conducted by statutory bodies and third-party verification audits, including the BRSR Assurance Audit and an inter-plant environmental audit.
+
+• Maintained 100% regulatory compliance while boosting efficiency by 33% - Submitted annual returns of hazardous and biomedical waste documentation 10 days early.
+
+• Supported environmental monitoring for cement and captive thermal power plants following CPCB guidelines for source emission monitoring, CEMS guideline 2018.
+
+• Facilitated statutory groundwater clearances by assisting in the procurement of No Objection Certificates (NOC).
+
+• Conducted industrial water audits and monitored operations for DM plants, STP and ETP to ensure strict compliance with effluent standards, while actively contributing to field bathymetric surveys.
+
+• Monitored continuous environmental performance and compliance data using CEMS, CAAQMS, and CEQMS.
+
+• Contributed to the operational optimization of the kiln, cooler, and mills, achieving a 10% reduction in Particulate Matter (PM) emissions (from 20 mg/Nm³ to <=18 mg/Nm³).
+
+• Managed BRSR data analytics and evaluated compliance frameworks related to carbon, plastic, and green credit programs to support corporate sustainability goals.
+
+
+
+GRACC Intern — Inspire Clean Energy Pvt. Ltd.   April 2023 – July 2023
+
+• Evaluated solar PV plant efficiency by analyzing string current data and Performance Ratio (PR), alongside managing strict safety and maintenance documentation (TBT, PTW, PPE).
+
+
+
+Projects / Deliverables
+
+Modelling and Optimization of an Intensified Water Electrolysis Integrated Tri-Reforming Coupled Methanol Production Process
+
+Developed and optimized a methanol production model using Aspen Plus and Python.
+
+• Recognized with the Best Paper Presentation Award at ICCEAS 2025.
+
+• Authored a published research article in E3S Web of Conferences.
+
+Development of a Decision Support System for Watershed Morphology
+
+Developed an interactive calculator using Python and Qt Designer that streamlines the calculation of essential watershed morphology.
+
+
+
+Education
+
+M.Tech. in Energy and Environmental Engineering
+
+National Institute of Technology, Rourkela, August 2023 – May 2025
+
+CGPA: 9.42 / 10.00
+
+B.Tech. in Energy and Environmental Engineering
+
+AEC&RI, Tamil Nadu Agricultural University, Coimbatore, August 2019 – July 2023
+
+CGPA: 8.67 / 10.00
+
+
+
+Certifications & Licenses
+
+• Sustainability and Corporate ESG – Reliance Foundation, under NSDC
+
+• ISO :2015 – Environmental Management Systems – Alison
+
+• ESG Masterclass – PROIndia (Webinar)
+
+
+
+Professional Summary
+
+Environmental Engineer with one year of industry experience in regulatory compliance, environmental data analysis and Environmental Management Systems (EMS). Skilled in monitoring sewage and effluent treatment operations, driven by a strong commitment to corporate sustainability and continuous improvement.
+
+Core Skills
+
+Platforms: OpenLCA, Power BI, Aspen Plus, PVsyst
+
+Methods: Environmental Impact Assessment (EIA), Regulatory Compliance & Permitting, ESG Strategy & Reporting, Carbon Accounting & GHG Management, Environmental Management Systems (ISO :2015), Integrated Waste Management, Life Cycle Assessment (LCA), Renewable Energy (Solar PV) Design, Wastewater Treatment (STP/ETP) Engineering, Process Simulation & Optimization
+
+Soft Skills: Open-minded, Rational thinking, Time management, Problem-solving
+
+
+
+Awards / Honors
+
+• Best Paper Presentation Award, ICCEAS-25
+
+• Student Project Scheme Winner - Tamil Nadu State Council for Science and Technology
+
+• GATE Qualified Candidate, 2023
+
+• Organizer, ECOFEST’23 – an international conference
+
+• Inter-Collegiate Hockey Tournament – Zonal Winner and Inter-Zonal Runner-Up

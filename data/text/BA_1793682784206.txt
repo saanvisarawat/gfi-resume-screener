@@ -1,0 +1,85 @@
+BA
+
+Product Compliance Engineer
+
+Experience
+
+Product Compliance Engineer — Tata Consultancy Services (TCS)   Aug 2024 – Present
+
+• Own end-to-end environmental compliance analysis for automotive components against RoHS 2, RoHS 3, China RoHS, REACH, California Prop 65, POP, WEEE, and ELV regulations, ensuring 100% on-time regulatory reporting.
+
+• Create, request, and analyze IMDS records; build and restructure tree-level Bills of Material (BOM) for OEM and Tier-omers.
+
+• Generate CRM substance-group reports to identify and quantify regulated substances in vehicle-level material composition.
+
+• Coordinate with global suppliers to secure Statement of Compliance forms and WAIVER forms for expired Annex codes, improving submission quality.
+
+• Review and validate supplier-submitted material data sheets against customer-specific requirements, flagging discrepancies.
+
+• Process BOMcheck compliance requests and declare accurate compliance status within a2 Optimizer and iPoint platforms.
+
+• Drive supplier follow-ups to close out missing or non-compliant IMDS submissions, reducing open-item backlog.
+
+• Issue Chemistry Manager requests for regulatory data submissions.
+
+• Serve as a point of contact for suppliers on IMDS and SQMS submission queries.
+
+• Leverage SAP to verify material BOM structures and vendor master records.
+
+• Participate in tele-conferences and status review meetings with global requestors.
+
+
+
+Education
+
+Master of Business Administration (MBA)
+
+Kalasalingam Academy of Research and Education, 2025 – 2027
+
+Bachelor of Science in Chemistry
+
+Muthayammal College of Arts and Science, 2021 – 2024
+
+Higher Secondary Education (12th Standard)
+
+Govt. Higher Secondary School, Elachipalayam, 2021
+
+SSLC (10th Standard)
+
+Govt. Higher Secondary School, Elachipalayam, 2019
+
+
+
+Certifications & Licenses
+
+• Microsoft Power BI — Certified (Data Modeling, Visualization & Reporting)
+
+• Cambridge BEC Preliminary Examination (Business English Certificate)
+
+• Junior Level Typewriting (English)
+
+
+
+Professional Summary
+
+Detail-oriented Product Compliance Engineer with 1+ year of experience ensuring product and material compliance with global environmental regulations.
+
+Core Skills
+
+Platforms: IMDS, iPoint, a2 Optimizer, BOMcheck, Chemistry Manager, SAP
+
+Methods: Documentation & Reporting, Data Analysis & Reporting
+
+Domain Knowledge: Regulatory Compliance, Supply Chain Management, Know Your Customer
+
+Soft Skills: Team Collaboration, Leadership, Project Coordination, Multi-tasking, Stakeholder Communication, Adaptability
+
+
+
+Tools / Technologies
+
+MS Word, MS Excel, MS PowerPoint, MS Power BI, Windows 11
+
+Languages
+
+English (Professional Proficiency), Tamil (Native)

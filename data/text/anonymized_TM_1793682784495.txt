@@ -1,0 +1,97 @@
+TM
+
+Sustainability Engineer
+
+Experience
+
+Engineer — L&T Technology Services   March 2023 – Present
+
+• Performed Life Cycle Assessment using SimaPro for EV and ICE platforms, supporting material selection and early design decisions.
+
+• Applied circular economy principles to evaluate material reuse, recyclability, and lifecycle impact reduction.
+
+
+
+Projects / Deliverables
+
+Interior System LCA – Instrument Panel
+
+Performed Life Cycle Assessment of vehicle instrument panel assemblies using SimaPro with a cradle-to-gate scope.
+
+• Assessed the environmental impact of materials and manufacturing processes used in interior components.
+
+• Evaluated alternative material options to compare the environmental performance across design variants.
+
+• Documented findings in carbon footprint and sustainability reports for internal engineering discussions.
+
+Exhaust System LCA – ICE Vehicles
+
+Conducted cradle-to-gate carbon footprint assessment of ICE exhaust assemblies using SimaPro.
+
+• Analyzed the impact of material composition and manufacturing processes on overall CO₂ emissions.
+
+• Interpreted results to support design benchmarking and compliance-related evaluations.
+
+• Prepared technical LCA reports for internal engineering reviews.
+
+Thermal Component LCA – Heat Exchangers
+
+Performed Life Cycle Assessment of thermal components including radiators and condensers.
+
+• Compared alternative material and design configurations to identify opportunities for environmental impact reduction.
+
+• Collaborated with engineering teams to provide early-stage sustainability inputs for thermal system design.
+
+• Developed Excel-based calculation and reporting templates, improving analysis consistency and turnaround time.
+
+
+
+Education
+
+M.Tech in Automotive Engineering
+
+MS Ramaiah University of Applied Science
+
+GPA: 7.99
+
+B.Tech in Mechanical Engineering
+
+SRM Institute of Science and Technology
+
+GPA: 7.55
+
+
+
+Certifications & Licenses
+
+• Circular Economy: An Introduction
+
+• Engineering Design for a Circular Economy
+
+
+
+Professional Summary
+
+Sustainability engineer with 3 years of experience in Life Cycle Assessment (LCA) and sustainability analysis for automotive products. Hands-on exposure to 2D/3D CAD, 1D simulations, and cross-functional collaboration with design and manufacturing teams.
+
+Core Skills
+
+Platforms: SimaPro, Siemens NX, MATLAB/Simulink, MS Excel, PowerPoint, Word
+
+Methods: Life Cycle Assessment (LCA), ISO /, ISO, Carbon footprinting, Impact assessment
+
+Domain Knowledge: Automotive Systems, EV & ICE vehicles, Materials, Manufacturing basics
+
+Soft Skills: Cross-functional Collaboration, Data Analysis & Reporting, Design support
+
+
+
+Tools / Technologies
+
+SimaPro, Siemens NX, MATLAB/Simulink, MS Excel
+
+Awards / Honors
+
+• Spot Award, LTTS, anding performance, service and dedication towards our organisation
+
+• Presented a technical paper at 3-day SAENIS TTTMS International Conference showcasing research work to global automotive industry and academic professionals in 2025.

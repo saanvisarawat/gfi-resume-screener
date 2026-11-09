@@ -1,0 +1,83 @@
+PL
+
+UI/UX Designer Intern
+
+Experience
+
+UI/UX Designer Intern — Syntellite Innovations   May 2026 – July 2026
+
+• Designed user flows, wireframes, and high-fidelity interfaces for AllChargeX, simplifying navigation across multiple EV charging operators.
+
+• Conducted user research, competitor analysis, and persona development for ONIX Import Export, translating user insights into clear user flows.
+
+• Researched user expectations and booking requirements for Ivanka Luxury Car Rental, contributing insights to shape a seamless rental experience.
+
+
+
+Android App Development using GenAI Intern — Mindmatrix   Feb 2026 – Apr 2026
+
+• Designed UI flows and screens for LifeRoot, an AI-powered health application.
+
+• Applied Kotlin, Android development, and software engineering practices to build and test application features in an Agile environment.
+
+
+
+Projects / Deliverables
+
+Enhanced Network Intrusion Detection System using deep learning
+
+Designed an intuitive security dashboard that simplified network monitoring.
+
+• Made detected attacks, alerts, and threat patterns easier for users to identify and understand.
+
+Text Encryption & Decryption Interface
+
+Designed an interactive interface for text encryption and decryption.
+
+• Made the process more engaging through motion-based visual feedback and intuitive interactions.
+
+
+
+Education
+
+B.E. in Computer Science
+
+S J C Institute of Technology, 2022 – 2026
+
+CGPA: 8.89
+
+
+
+Certifications & Licenses
+
+• Google UX Design Professional Certificate
+
+• User Experience Program
+
+• Generative AI Fundamentals
+
+• Software Engineering and Agile Software Development
+
+• Human Computer Interaction
+
+
+
+Professional Summary
+
+UX Designer with a Computer Science background and hands-on experience designing web and mobile products. Skilled in translating user and business needs into intuitive, user-centered experiences.
+
+Core Skills
+
+Platforms: Figma, Adobe XD, Sketch, FigJam, Miro, Jira, Notion, Google AI Studio
+
+Methods: Design Thinking, Agile
+
+Domain Knowledge: User Experience, UI Design
+
+Soft Skills: Collaboration, Creativity
+
+
+
+Tools / Technologies
+
+Kotlin, Python, HTML, CSS, JavaScript
