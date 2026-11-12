@@ -1,0 +1,102 @@
+AS
+
+Product Designer
+
+Experience
+
+Product Designer — Lemmino   Sep ’25 – Dec ’25
+
+• Owned end-to-end UX strategy and shipped production designs for an AI-native simulation engine, transforming complex LLM outputs into structured analytics for real-world users.
+
+• Optimized information density by architecting a hierarchy based on progressive disclosure, allowing users to navigate seamlessly from performance summaries to granular transcript analysis.
+
+• Engineered a dynamic feedback system that synchronized UI reinforcement with AI evaluation, driving user retention through high-fidelity 'Success/Failure/Growth' interaction loops.
+
+• Bridged technical ambiguity by collaborating directly with founders to deliver a scalable component library, ensuring 100% design fidelity across mobile and desktop production environments.
+
+
+
+Product Design Intern — Zaalima   Apr ’25 – Jul ’25
+
+• Led UX strategy for Aeron, architecting a first-of-its-kind AR 'Virtual Try-On' feature; solved complex spatial logic for garment mapping and body tracking to reduce purchase friction.
+
+• Architected the UX for Finnov´ o, a Gen-Z fintech platform; redesigned onboarding and KYC flows to optimize user trust in high-compliance financial environments.
+
+• Engineered a scalable Design System, establishing a unified library of 50+ reusable components and typography scales to accelerate front-end development cycles.
+
+• Coordinated a cross-functional squad of 4 members, managing project timelines and conducting design reviews to maintain 100% alignment with stakeholder business goals.
+
+
+
+UI/UX Design Intern — Internship Studio   Apr ’25 – Jun ’25
+
+• Conducted heuristic evaluation of Expedia, identifying usability issues & recommending improvements using UX principles.
+
+• Redesigned an e-commerce landing page, improving information hierarchy and visual communication.
+
+
+
+Project Management Intern — Excelerate   Mar ’25 – Apr ’25
+
+• Led a global cross-functional team of 6+ members (US, Africa, Asia) to execute a high-stakes virtual event, ensuring 100% timeline adherence via Agile sprint planning and Gantt charts.
+
+
+
+Projects / Deliverables
+
+Finnov´ o
+
+Redesigned high-compliance KYC flows for Gen-Z wealth management.
+
+Lemmino
+
+Built the post-interview learning loop for AI-driven role-play.
+
+RedBull
+
+Immersive browser-based vehicle visualization using Spline.
+
+AirPods Max
+
+High-fidelity product showcase focused on Apple-standard polish.
+
+
+
+Education
+
+Bachelor’s Degree
+
+University of Calcutta, 2024 – 2027
+
+Specialization: Finance & Taxation; Coursework: Statistics, Business Math
+
+Higher Secondary
+
+M.P. Birla Foundation School, 2013 – 2024
+
+Specialization: Computer Science; Foundations: Java, SQL, Database Management
+
+
+
+Professional Summary
+
+Product Designer specializing in high-performance interfaces for AI, Fintech, and E-commerce ecosystems. Proven track record of shipping end-to-end production designs, from complex Design Systems to interactive motion.
+
+Core Skills
+
+Platforms: Figma, Framer, Rive, Spline, FigJam, Jitter, Adobe Creative Suite
+
+Methods: Agile, Scrum
+
+Domain Knowledge: AI, Fintech, E-commerce
+
+Soft Skills: User Research, Information Architecture, Accessibility, Interaction Design
+
+
+
+Awards / Honors
+
+• All India Rank 37 — CIT 2025
+
+
+

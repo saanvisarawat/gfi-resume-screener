@@ -1,0 +1,88 @@
+NP
+
+Senior Engineer – R&D
+
+Experience
+
+Senior Engineer – R&D — Gunnebo India Pvt. Ltd.   09/2024 – Current
+
+• Conducted LCA of Titan SRD Class B & C using OpenLCA and ecoinvent, optimizing the product design to achieve a 15% reduction in carbon emissions, 19.2% reduction in steel usage, and 16 kWh/unit energy savings, introduced recycled steel fibers for sustainable material optimization.
+
+• Led data collection and validation for the EPD of Steelage Magna Class C Safe, covering raw material, manufacturing, energy, transportation, and end-of-life data; currently driving the Magna Safe Class BB project, leading LCA modelling, life-cycle inventory development, and environmental impact assessment in accordance with EN +A2, ISO , and ISO .
+
+• Contributed to Ecomark compliance for fire extinguishers by evaluating product materials and design against the 2026 Ecomark criteria.
+
+• Led ion, delivering 3 on schedule and 1 ahead of schedule. Managed ECRs and BOM revisions, ensuring controlled implementation of engineering changes in production.
+
+• Owned the SDL product line, supported with technical queries to Marketing and Sales to assess product feasibility and convert customer requirements into manufacturable solutions. Developed product designs, drawings, and BOMs, and coordinated with Production and other functions to implement and maintain the products throughout their lifecycle.
+
+
+
+Upskill Trainee – R&D — Gunnebo India Pvt. Ltd.   09/2023 – 09/2024
+
+• Selected for Gunnebo's globally competitive Upskill Trainee Program, combining hands-on engineering work with business education from ESCP Business School, London.
+
+• Designed and developed SketchWizard, a Python-based desktop application that automates SDL specification drawings with DXF/PDF export, reducing drafting time by 98%.
+
+• Built foundational expertise in Autodesk Inventor, engineering design, and technical drafting while contributing directly to live R&D and NPD initiatives.
+
+
+
+Education
+
+Master of Engineering, Thermal Science Engineering
+
+The Maharaja Sayajirao University, 2023
+
+63.14%
+
+Bachelor of Engineering, Mechanical Engineering
+
+Atmiya Institute of Technology & Science, 2021
+
+CGPA: 8.56
+
+
+
+Certifications & Licenses
+
+• Integrated LCA and PCF – ISO :2006, ISO :2006 and ISO :2018, TÜV SÜD South Asia – April 2026
+
+• Python Bootcamp: Zero to Hero in Python – July 2022
+
+
+
+Professional Summary
+
+Sustainability and LCA professional with a track record of driving double-digit carbon and material reductions in production-scale engineering projects using OpenLCA and ecoinvent. TÜV SÜD-certified in Integrated LCA & PCF, with 3 years of R&D engineering experience bridging environmental impact assessment with manufacturing reality.
+
+Core Skills
+
+Platforms: OpenLCA, SimaPro, GaBi, One Click LCA, Autodesk Inventor, AutoCAD, Microsoft Dynamics 365 F&O
+
+Methods: Cradle-to-Gate Analysis, Cradle-to-Grave Analysis, Environmental Product Declarations (EPD)
+
+Domain Knowledge: Life Cycle Assessment (LCA), Product Carbon Footprint (PCF), Sustainability
+
+Soft Skills: Team Leadership, Communication Skills
+
+
+
+Tools / Technologies
+
+Python, Bluestar (PLM)
+
+Awards / Honors
+
+• Cleared GATE 2021 (Mechanical Engineering)
+
+• Published a research paper at the RAISE 2023 conference
+
+• Supported coordination and execution of Maker Fest Vadodara 2023, a community engineering and innovation event
+
+
+
+Languages
+
+English, Hindi, Gujarati
+

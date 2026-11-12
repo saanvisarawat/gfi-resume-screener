@@ -1,0 +1,88 @@
+AA
+
+Graphic Designer
+
+Experience
+
+Graphic Designer — Global Dream Connect   Jan 2026 – Present
+
+• Designed digital marketing creatives, social media visuals and campaign assets aligned with brand guidelines.
+
+• Maintained visual consistency and modern typography to improve user engagement across marketing materials.
+
+
+
+UI/UX Design Intern — Xellara   Aug 2025 – Jan 2026
+
+• Designed wireframes, high-fidelity UI screens and interactive prototypes for real product interfaces.
+
+• Collaborated with cross-functional teams using user-centered design process and iterative feedback cycles.
+
+
+
+App Developer Intern — OctaNet Services Pvt. Ltd.   Jun – Jul 2024
+
+• Designed Android application UI screens and integrated Firebase backend services.
+
+• Improved interface responsiveness and usability by fixing layout and performance issues.
+
+
+
+Projects / Deliverables
+
+E-commerce Web Application
+
+Designed responsive product browsing and checkout experience using modern UI patterns and mobile-first approach.
+
+• Improved navigation clarity and visual hierarchy through structured layout and reusable UI components.
+
+Coffee Website UI Design
+
+Created high-fidelity landing page prototype focusing on branding, typography and user engagement.
+
+• Applied grid system, spacing consistency and accessibility principles for better usability.
+
+Netflix Interface Clone
+
+Designed OTT-style interface with cinematic hero banner, content sliders and dark theme experience.
+
+• Enhanced interaction design with hover states and responsive content presentation.
+
+Nike Mobile Shopping UI
+
+Designed complete mobile shopping flow including product listing, product detail and checkout screens.
+
+• Focused on intuitive navigation, micro-interactions and conversion-oriented layout structure.
+
+
+
+Education
+
+B.Tech Computer Science
+
+Jaypee University of Engineering and Technology, 2021–2025
+
+Class XII PCM
+
+Maheshwari Academy, 2020–2021
+
+
+
+Professional Summary
+
+Graphic Designer specializing in social media creatives, brand identity, and marketing visuals. Skilled in typography, layout, and visual storytelling with hands-on experience in Canva, Figma, Adobe tools, and Generative AI.
+
+Core Skills
+
+Platforms: Figma, Canva, React.js, Next.js
+
+Methods: User Research, Personas, Journey Mapping, Usability Testing
+
+Domain Knowledge: Graphic Design, UI/UX Design, Frontend Development
+
+
+
+Tools / Technologies
+
+Git, GitHub, Firebase, Firestore, REST APIs, Vercel, Netlify, VS Code
+

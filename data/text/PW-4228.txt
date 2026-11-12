@@ -1,0 +1,118 @@
+PW
+
+Project Associate 1
+
+Experience
+
+Project Associate 1 — CSIR NEERI   June 2024 – Present
+
+• Contributed to various environmental sustainability projects under the Department of Environmental Sustainability and Green Economy (ESGE), focusing on Sustainable Environmental Processes (SEP).
+
+• Working on MRIO modelling with hybridisation of LCA for supply chain management.
+
+• Working on Life Cycle Analysis of communication network infrastructure that includes data centre and its cooling, network switch, router, optical transceiver, fibre optic cable, etc., for Large Language Models.
+
+• Working on comparative LCA of query search through LLMs such as ChatGPT and Gemini, and their water footprint.
+
+• Performed comparative LCA of commercial fish feed vs Microalgae Biomass, using literature research and GaBi database to find a sustainable alternative for fish feed.
+
+• Performed LCA of marine microalgae-based COration using seawater and renewable energy integration to reduce the environmental footprint.
+
+• Performed Life Cycle Assessments (LCA) of PET bottles, using the ELCD database in OpenLCA.
+
+• Prepared life cycle inventory for various chemicals, Zarrouk Salt Medium, using proxy data and GaBi software.
+
+• Performed comparative LCA of Nitric Acid and Ammonium Nitrate using GaBi, complying with ISO / in trade-offs to reduce carbon emissions.
+
+• Performed LCA of packaged potato chips.
+
+• Provided technical support and solutions in preparing detailed project reports, proposals, and environmental compliance reports for third-party projects (greenfield and brownfield), ensuring alignment with regulatory frameworks, sustainability targets, and customer requirements.
+
+• Performed evaluations of accidental hazards that occurred during the plant operation according to toxicological, environmental, chemical, and physical properties for the determination of hazards of substances and chemical products.
+
+• Applied GIS tools (ArcGIS, QGIS, Google Earth Engine) to perform spatial analysis and generate thematic maps (NDVI, NDWI, LST, AOD) for evaluating ecological and climate indicators as requested by stakeholder communication.
+
+• Assessed air quality by modelling PM2.5 concentrations using the Fixed Box Model, integrating source emission estimates, meteorological parameters, and validating with CAAQMS monitoring data.
+
+• Developed automated Windrose Diagrams using Python, enhancing data visualisation and interpretation for the air quality monitoring report.
+
+• Collaborated with a cross-functional technical team to perform COive use of flue-gas emission from the refinery.
+
+• Provided technical support and solutions in preparing decarbonization strategies towards achieving Net Zero Goals.
+
+
+
+English Content Writer and Small-Scale Digital Entrepreneur — Freelancer, Remote   Aug 2020 - Jan 2024
+
+• Researched and developed accurate, well-structured technical content.
+
+• Managed multiple projects, meeting tight deadlines with strong attention to detail.
+
+• Exercised excellent stewardship in creative and small-scale retail sectors through market analysis, product development insights, and digital marketing support for an online fruit mart and modern-contemporary art.
+
+
+
+Graduate Internship Trainee — Chemcepts.Co   March 2021 - Feb 2022
+
+• Conducted process simulation and optimisation of Gas to Liquid (GTL) technology using Aspen HYSYS, focusing on improving process efficiency, and applying process modelling skills relevant to evaluating energy and material flows.
+
+• Performed detailed technical studies on syngas production, steam methane reforming (SMR), and Fischer-Tropsch synthesis, catalysis, and reactor design.
+
+
+
+Professional Paid Training Program (EQUIP) — Equinox Software and Services Pvt Ltd   Nov 2019 - Jan 2020
+
+• Acquired core knowledge of process engineering and system modelling for the hydrocarbon production industry.
+
+• Simulated steady-state and dynamic processes using Aspen HYSYS to analyse unit operations and energy/material flows.
+
+• Gained exposure to IIoT tools like Aspen Mtell to identify failure in equipment and Operator Training Simulators (OTS) for real-time process analysis.
+
+
+
+Education
+
+B.E. in Chemical Engineering
+
+Maharashtra Institute of Technology, Pune (Savitribai Phule Pune University), Aug 2014 - May 2018
+
+Percentage: 72.4%
+
+HSC
+
+SPM Junior College, Wani (Amravati Board), June 2013 - Feb 2014
+
+Percentage: 83.64%
+
+SSC
+
+SPM Junior College, Wani (Amravati Board), June 2011 - March 2012
+
+Percentage: 90.91%
+
+
+
+Professional Summary
+
+A background in chemical engineering and a sustainability research enthusiast with hands-on experience in environmental modelling and impact assessment, looking for a long-term LCA and Sustainability Consultant role to contribute to sustainable product development through a data-driven approach and continuous improvement strategies.
+
+Core Skills
+
+Platforms: GaBi, OpenLCA, Aspen HYSYS, ArcGIS, Python, Microsoft Excel, Microsoft Word, Microsoft PowerPoint
+
+Methods: Life Cycle Assessment, Environmental Impact Assessment, GHG accounting, Climate change mitigation
+
+Domain Knowledge: Sustainability, Environmental Compliance, Circular Economy
+
+Soft Skills: Cross-functional team collaboration, Quick learner, Self-motivated, Excellent written and verbal communication skills, Detail-oriented, Excellent research skills, Innovative, Proactive, Organised, Strong problem-solving and analytical skills, Teamwork abilities
+
+
+
+Tools / Technologies
+
+Python, Microsoft Excel, Microsoft Word, Microsoft PowerPoint, Aspen HYSYS, GaBi, OpenLCA, ArcGIS
+
+Languages
+
+English, Hindi, Marathi, German (A2)
+

@@ -1,0 +1,80 @@
+RR
+
+LCA Associate Consultant
+
+Experience
+
+LCA Associate Consultant — Enviguide Techno Solutions Private Limited   Jun 2026 – Present
+
+• Collaborated with the application development team to design backend logic for secondary database mapping in a Product Carbon Footprint (PCF) application aligned with the Catena - X Rulebook and ISO .
+
+• Performed Greenhouse Gas (GHG) accounting for automotive client engagements, supporting carbon footprint calculations across multiple Bills of Materials (BOMs).
+
+• Conducted cradle - to - gate Life Cycle Assessments (LCA) using openLCA for automotive components, leveraging Ecoinvent 3.12 and BAFU databases for life cycle inventory modeling.
+
+• Designed and executed validation test cases, cross - verifying PCF application outputs against openLCA calculations to ensure data accuracy and consistency.
+
+• Applied Catena - X methodologies to strengthen PCF traceability and cross - functional reporting consistency.
+
+
+
+Projects / Deliverables
+
+Comparative LCA of Bio - CNG Production from Municipal Solid Waste vs. Sugarcane Residues
+
+Conducted a comparative cradle - to - gate Life Cycle Assessment of two commercial - scale Bio - CNG production systems in India.
+
+• Evaluated feedstock - level environmental trade - offs and identified key process hotspots driving impact across both pathways.
+
+• Informed evidence - based recommendations for grid decarbonization and pretreatment/digestate management.
+
+Comparative LCA of Ethanol Production: Chemical Synthesis vs. Microbial Fermentation
+
+Conducted a comparative cradle - to - gate Life Cycle Assessment of ethanol production via microbial fermentation and chemical synthesis.
+
+• Built life cycle inventories from primary feedstock data and pinpointed key process - level drivers of environmental performance.
+
+
+
+Education
+
+B.Tech, Biotechnology (Honours)
+
+Hindustan Institute of Technology and Science, 2022 – 2026
+
+CGPA: 9.6 / 10
+
+
+
+Certifications & Licenses
+
+• Carbon Accounting and Sustainable Designs in Product Lifecycle Management — NPTEL
+
+• Life Cycle Assessment — University of Michigan (Coursera)
+
+• Product Life Cycle Assessment — GreenDelta (openLCA Recognized)
+
+• ESG Reporting — ESG Institute
+
+
+
+Professional Summary
+
+Biotechnology graduate with hands-on consulting experience in Life Cycle Assessment (LCA), Product Carbon Footprint (PCF), and GHG Accounting for automotive clients.
+
+Core Skills
+
+Platforms: openLCA, Microsoft Excel, Power BI, PowerPoint, Word
+
+Methods: Life Cycle Assessment, GHG Accounting, Sustainability Assessment, Decarbonization
+
+Domain Knowledge: Sustainability, Carbon Accounting, ESG Reporting
+
+Soft Skills: Collaboration, Data Interpretation
+
+
+
+Tools / Technologies
+
+Ecoinvent 3.12, BAFU Database, EPI Suite
+

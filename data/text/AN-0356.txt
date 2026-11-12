@@ -1,0 +1,82 @@
+AN
+
+UI/UX Designer and Frontend Developer
+
+Experience
+
+UI/UX Designer and Frontend Developer — Dvika NextGen Tech Solutions   March 2026 – Present
+
+• Designed UI screens and user flows for web applications and created wireframes and prototypes using Penpot.
+
+• Developed responsive UI components using React and improved navigation, layout, and overall usability.
+
+• Collaborated with developers for accurate implementation.
+
+• Ensured consistency using reusable UI components.
+
+
+
+Projects / Deliverables
+
+Web application for Educational Institution
+
+Designed UI for dashboards, forms, and navigation and developed responsive frontend using React.
+
+• Improved user flow and accessibility.
+
+• Integrated APIs for dynamic content.
+
+Dvika Website
+
+Frontend UI Development.
+
+• Built responsive UI components using React.
+
+• Converted designs into reusable frontend components.
+
+• Improved layout, spacing, and visual hierarchy.
+
+• Implemented forms, modals, and interactive elements.
+
+• Integrated APIs for seamless data flow.
+
+
+
+Education
+
+Bachelor of Engineering (B.E) in Information Science and Engineering
+
+Poojya Doddappa Appa College of Engineering, 2022 – Present
+
+CGPA: 8.05
+
+Science Stream (Pre-University)
+
+Shree Guru Independent PU College, 2020 – 2021
+
+Percentage: 86.5%
+
+
+
+Professional Summary
+
+UI/UX Designer and Frontend Developer with hands-on experience designing and building user-centric web applications. Skilled in wireframing, prototyping, and responsive interface design using Figma.
+
+Core Skills
+
+Platforms: Figma, React, HTML, CSS, JavaScript
+
+Methods: Wireframing, Prototyping, User Flows, Interaction Design, Responsive Design, Usability Principles
+
+Soft Skills: Content Writing
+
+
+
+Tools / Technologies
+
+Framer, Penpot, Git, MS Office
+
+Languages
+
+English (Fluent), Kannada (Native), Hindi (Proficient)
+

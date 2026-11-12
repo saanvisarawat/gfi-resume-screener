@@ -1,0 +1,82 @@
+DVJ
+
+UI/UX Designer
+
+Experience
+
+UI/UX Design Intern — Adobe Krutantics   Jun 2026 - Sep 2026
+
+
+
+Frontend UI/UX Designer — Rooman Technology Pvt. Ltd   Feb 2026 - May 2026
+
+• Conducted user research and developed wireframes, user flows, and high-fidelity prototypes for web and mobile applications.
+
+• Created responsive UI designs, design systems, and interactive prototypes using Figma.
+
+• Applied UX principles, accessibility standards, and usability heuristics to improve digital experiences.
+
+
+
+Projects / Deliverables
+
+Frontend UI/UX
+
+Designed a modern AI-powered SaaS dashboard featuring reports, analytics, AI agents, and workflow management.
+
+• Created high-fidelity, responsive interfaces in Figma with reusable components, design systems, and micro-interactions.
+
+• Developed intuitive reporting experiences using KPI cards, data visualizations, and streamlined information architecture.
+
+Nova AI Operations SaaS Dashboard - Dark Mode
+
+Event Booking Platform UI/UX Design
+
+Designed a mobile-first event booking platform from research to high-fidelity prototype.
+
+• Created end-to-end user flows, wireframes, and high-fidelity prototypes that improved booking task completion and navigation efficiency.
+
+• Conducted usability testing and improved navigation, accessibility, and booking experience.
+
+Henna Hive – Mehndi Artist Booking Platform
+
+Designed an end-to-end booking experience enabling users to discover, compare, and book mehendi artists seamlessly.
+
+• Developed user flows, interactive prototypes, and a scalable design system to enhance usability and engagement.
+
+• Designed the company website through user research, wireframing, and high-fidelity prototyping.
+
+
+
+Education
+
+Bachelor of Engineering in Computer Science and Design
+
+Bapuji Institute of Engineering and Technology, 2022-2026
+
+GPA: 8.56
+
+
+
+Certifications & Licenses
+
+• Microsoft UI/UX Professional Design - Coursera
+
+
+
+Professional Summary
+
+Aspiring UI/UX Designer with hands-on experience in user research, wireframing, prototyping, user flows, and design systems for web and mobile applications. Passionate about creating intuitive, user-centered digital experiences.
+
+Core Skills
+
+Platforms: Figma, Canva
+
+Methods: Wireframing, Prototyping, Usability Testing, Information Architecture
+
+
+
+Tools / Technologies
+
+Auto Layout, Interactive Prototyping, Design Systems, Data Visualization, Micro-interactions, User Flows, HTML, CSS
+

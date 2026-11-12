@@ -1,36 +1,32 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Resume Screener (LCA Consultant and UI/UX Design Intern)
 
-## Getting Started
+Reads resumes, extracts job-related information, classifies each one (LCA, UI/UX, both, or neither/uncertain), ranks them separately for each role, and shows the evidence behind every score. You can upload a new resume and see where it would rank.
 
-First, run the development server:
+Live demo: **[paste your Vercel link]** · Method: [`docs/METHODOLOGY.md`](docs/METHODOLOGY.md) (also at `/methodology` in the app)
+
+## Run it
 
 ```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+npm install
+npm run data      # reads data/raw, writes data/candidates.json, public/resumes, docs/CLEANING.md, docs/DATA_AUDIT.md
+npm test          # 400+ checks
+npm run dev       # http://localhost:3000
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+`npm run data` must be re-run (and the result committed) whenever you change `lib/` or add resumes in `data/raw`.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## Where things are
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+| Path | What |
+|---|---|
+| `lib/extract.ts` | text cleaning, sections, dates, education, projects, skills with evidence |
+| `lib/taxonomy.ts` | the skill list (edit this to change what counts as a skill) |
+| `lib/score.ts` | weights, thresholds (`CONFIG`), scoring, classification |
+| `app/api/upload/route.ts` | upload, parse, score, rank |
+| `app/Screener.tsx` | the interface |
+| `scripts/` | `build-data`, `selftest`, `validate`, optional `crosscheck-llm` |
+| `docs/` | methodology, data audit, cleaning log, validation, AI log |
 
-## Learn More
+## Limits
 
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+See "Limitations" in the methodology. Short version: keyword based, no OCR, thresholds tuned on 47 resumes.

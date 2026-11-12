@@ -1,0 +1,84 @@
+FT
+
+Product Designer & Design Engineer
+
+Experience
+
+UX Audit Consultant — Flow   Dec 2025 - May 2026
+
+• Conducted UX audits for SaaS products to identify usability issues and friction across onboarding and user journeys.
+
+• Delivered product recommendations focused on activation, navigation, and workflow clarity.
+
+• Worked on real client products through structured product analysis and design recommendations.
+
+
+
+Creator • Product Designer • Design Engineer — Taro Warehouse Simulation   Not specified
+
+• Designed and built a simulation-first platform that helps warehouse teams compare picking strategies before implementation.
+
+• Combined product design and engineering using Next.js, React, TypeScript, and AI-assisted development.
+
+• Maintaining an actively developed codebase with 150+ commits and 120+ completed pull requests.
+
+• Designed interaction flows and simulation experiences for complex operational workflows.
+
+
+
+Independent Product Case Study — CTO.new   Not specified
+
+• Identified friction in feature discovery within an AI coding platform's achievement and progression system.
+
+• Redesigned the behavioral feedback loop using lightweight notifications, persistent UI states, and curiosity-driven interactions to improve feature awareness without interrupting developer workflows.
+
+• Established a consistent interaction language for progression, exploration, and achievement feedback through systems thinking.
+
+
+
+Independent Product Case Study — Mojar   Not specified
+
+• Redesigned the onboarding and activation flow for an AI agent platform to improve first-time user clarity and momentum.
+
+• Reorganized the experience around user goals, knowledge upload, preview, and sharing to help users reach value faster.
+
+• Simplified complex workflows using progressive disclosure, clear navigation, and behavioral UX principles.
+
+
+
+Independent Product Case Study — Chalo   Not specified
+
+• Redesigned the information architecture of a public transit app to reduce navigation and cognitive load during bus selection.
+
+• Reorganized route discovery around commuter intent instead of bus variants, simplifying comparison across multiple routes.
+
+• Demonstrated how structural information architecture improvements can improve usability without changing the existing visual design.
+
+
+
+Education
+
+B.Tech in Artificial Intelligence & Machine Learning
+
+R.M.D. Engineering College, 2024-2028
+
+
+
+Professional Summary
+
+Product Designer & Design Engineer who combines product thinking, UX, and frontend engineering to design intuitive SaaS experiences.
+
+Core Skills
+
+Platforms: Figma, Next.js, React, TypeScript, Tailwind CSS, Git, GitHub, shadcn/ui
+
+Methods: Information Architecture, User Flows, Interaction Design, Wireframing, Prototyping, Design Systems, Onboarding Design
+
+Domain Knowledge: Product Design, UX Design
+
+
+
+Tools / Technologies
+
+AI-Assisted Development
+

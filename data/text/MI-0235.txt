@@ -1,0 +1,84 @@
+MI
+
+UI/UX Intern
+
+Experience
+
+UI/UX Intern — Cryptographic Solutions   Jan 26 - April 26
+
+• Designed the home screen and onboarding tutorials for a B2B internal tool used by second-hand car dealerships, focusing on clarity for non-technical users.
+
+• Owned end-to-end product design across both tools, from flows and wireframes to final Figma handoff.
+
+• Worked across two live products simultaneously, adapting to real business requirements and iterating based on team feedback.
+
+
+
+Founder & Creative Head — Clo Thrifts   Dates not provided
+
+• Launched sustainable thrift brand with 90% sell-through rate.
+
+• Built brand identity and content strategy, reaching 60K organically.
+
+• Managed sourcing, fulfillment, service for 40-omers.
+
+• Drove 70-80% margins; scaled ₹20K into ₹35K revenue.
+
+
+
+Projects / Deliverables
+
+Decision Debt
+
+A finance app that replaces manual transaction logging with contextual decision cards.
+
+• Designed end-to-end in Figma, prototyped using Claude as a coding partner to ship production-grade React components fast.
+
+• Solved logging fatigue by making the app ask instead of demand, with tailored flows for subscriptions, unclear charges, and split spends.
+
+HushChef
+
+AI Hands-Free Chef App.
+
+• Designed 25+ screens with personalized onboarding.
+
+• Conducted primary research focused on ingredient planning and stress reduction.
+
+100 Daily UI Challenges
+
+Design practice through diverse problem statements.
+
+• Strengthened visual design, interaction, and prototyping skills.
+
+• Built a versatile portfolio showcasing creativity and consistency.
+
+
+
+Education
+
+Bachelors in Technology
+
+University of Delhi, 2023 - 2027
+
+CBSE
+
+Salwan Public School, 2011 - 2023
+
+
+
+Professional Summary
+
+Aspiring UI/UX designer with experience in product design and a strong foundation in design tools and methodologies.
+
+Core Skills
+
+Platforms: Figma, Claude Code, JavaScript, React, HTML, CSS
+
+Methods: Usability Testing, Wireframing, User Flows, Information Architecture, Journey Mapping, Heuristic Analysis
+
+
+
+Tools / Technologies
+
+Jitter, Illustrator, Framer
+

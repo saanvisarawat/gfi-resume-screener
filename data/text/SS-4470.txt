@@ -1,0 +1,84 @@
+SS
+
+Engineer, Energy Efficiency & Climate Change
+
+Experience
+
+Engineer, Energy Efficiency & Climate Change — Confederation of Indian Industry (CII) – Green Business Centre   July 2025 – Present
+
+• Executed ISO /-compliant cradle-to-gate LCA studies for cement, pharmaceutical, animal healthcare, and electromineral manufacturing facilities using SimaPro, Ecoinvent, and ReCiPe 2016 Midpoint methodologies.
+
+• Developed representative nationwide cement sector LCA datasets using data collected from 20+ cement plants across India and conducted embodied and operational carbon assessments across multiple building typologies to evaluate impacts of low-carbon cement blends and mitigation strategies.
+
+• Prepared Net Zero uring units through Scope 1 & 2 emissions assessment and evaluation of decarbonization levers including renewable energy integration, AFR utilization, SEC reduction, CCUS deployment, green refrigerants, and EV adoption.
+
+• Conducted energy audits for MSMEs to identify energy conservation opportunities and operational efficiency improvements across industrial utility systems.
+
+• Delivered sustainability training sessions, site visits, technical reports, webinars, benchmarking studies, and stakeholder presentations related to climate transition and industrial sustainability initiatives.
+
+
+
+Projects / Deliverables
+
+Optimizing Sustainable Building Materials: LCA of Fast-Track Construction Techniques
+
+Performed comparative LCA of GFRG, EPS, and red brick systems to evaluate embodied carbon, energy consumption, and sustainability impacts of alternative construction materials.
+
+Life Cycle Assessment of Biogas Production from Arecanut Husk, Parthenium, and Cow Dung
+
+Conducted LCA of arecanut husk, parthenium, and cow dung-based biogas systems and mapped impacts to UN SDGs.
+
+Development of Driving Cycle & Emissions Analysis
+
+Conducted real-world vehicle emissions analysis using Portable Emission Measurement System (PEMS) to evaluate fuel consumption and emission behavior across rural and urban driving conditions.
+
+Sustainable Energy Optimization
+
+Developed XGBoost forecasting and NSGA-II optimization for cost and carbon-efficient industrial energy systems.
+
+
+
+Education
+
+M.Tech in Sustainable Engineering
+
+Indian Institute of Technology (IIT), Hyderabad, 2023-2025
+
+CGPA – 9.14
+
+B.Tech in Mechanical Engineering
+
+Academy of Technology, West Bengal, 2017-2021
+
+CGPA – 8.44
+
+
+
+Certifications & Licenses
+
+• CII Certified Professional in Life Cycle Assessment (2026)
+
+• Carbon Accounting & ESG Fundamentals
+
+• Sustainability Reporting with GRI Standards
+
+• Sustainability & Corporate ESG
+
+
+
+Professional Summary
+
+Industrial sustainability and climate strategy professional with experience in Life Cycle Assessment (LCA), industrial decarbonization, Net Zero roadmap development, and embodied carbon assessment across cement, pharmaceutical, and manufacturing sectors.
+
+Core Skills
+
+Platforms: SimaPro, OpenLCA, Gabi, Ecoinvent Database, ReCiPe, One Click LCA, Power BI, MS Excel, SQL, Python, MS Office
+
+Methods: Life Cycle Assessment (LCA), GHG Accounting, Net Zero Roadmap, Industrial Decarbonization, Embodied Carbon Assessment, ESG & Sustainability Reporting, SBTi, UN SDGs
+
+Domain Knowledge: Sustainability & Climate Strategy, Circular Economy, Energy Efficiency, Energy Audits, SEC Analysis, Renewable Energy Integration, IPCC, ISO /
+
+Soft Skills: Technical Report Writing, Stakeholder Engagement, Industrial sustainability Training & Workshops, Communication & Collaboration, Teamwork
+
+
+
