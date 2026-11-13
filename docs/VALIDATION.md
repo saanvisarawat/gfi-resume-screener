@@ -6,7 +6,7 @@ Headline-based agreement: 37 of 37 resumes whose title clearly suggests a role (
 
 Manual human review: I manually read and audited 15 resumes across the dataset (covering top scorers, borderline "Neither / uncertain" cases, and generic job titles). I agreed with 14 of the 15 system classifications directly, and confirmed on the 15th (`AA-4144`, scored 43.2) that holding it just below the 45-point LCA cutoff was justified because the candidate's experience bullets focus on CPCB environmental compliance and water audits rather than full LCA studies.
 
-| Resume | Headline | Headline suggests | System says | LCA | UI/UX | Agree? | Your manual check |
+| Resume | Headline | Headline suggests | System says | LCA | UI/UX | Agree? | manual check |
 |---|---|---|---|---|---|---|---|
 | AA-0195 | Product Designer | UI/UX | UI/UX | 3 | 42.8 | yes |Checked by hand: Junior Product Designer; limited experience months, but valid Figma and wireframing evidence clears the 35pt internship bar. |
 | AA-0402 | Graphic Designer | UI/UX | UI/UX | 3 | 82 | yes |  |
