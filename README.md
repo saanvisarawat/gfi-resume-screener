@@ -2,8 +2,7 @@
 
 Reads resumes, extracts job-related information, classifies each one (LCA, UI/UX, both, or neither/uncertain), ranks them separately for each role, and shows the evidence behind every score. You can upload a new resume and see where it would rank.
 
-Live demo: **[paste your Vercel link]** · Method: [`docs/METHODOLOGY.md`](docs/METHODOLOGY.md) (also at `/methodology` in the app)
-
+Live demo: [https://gfiresumescreener.vercel.app/](https://gfiresumescreener.vercel.app/) · Method: [`docs/METHODOLOGY.md`](docs/METHODOLOGY.md) (also at `/methodology` in the app)
 ## Run it
 
 ```bash
