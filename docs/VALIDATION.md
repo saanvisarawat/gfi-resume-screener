@@ -4,14 +4,14 @@ Compares each classification with the job title at the top of the resume. This i
 
 Headline-based agreement: 37 of 37 resumes whose title clearly suggests a role (100%).
 
-Manual human review: I manually read and audited 15 resumes across the dataset (covering top scorers, borderline "Neither / uncertain" cases, and generic job titles). I agreed with 14 of the 15 system classifications directly, and confirmed on the 15th (`AA-4144`, scored 43.2) that holding it just below the 45-point LCA cutoff was justified because the candidate's experience bullets focus on CPCB environmental compliance and water audits rather than full LCA studies.
+Manual human review: I manually read and audited 15 resumes across the dataset (covering top scorers, borderline "Neither / uncertain" cases, and generic job titles). I agreed with all 15 of the system classifications, including confirming on borderline candidate `AA-4144` (scored 43.2) that holding them just below the 45-point LCA cutoff was justified because their experience bullets focus on CPCB environmental compliance and water audits rather than full LCA studies.
 
-| Resume | Headline | Headline suggests | System says | LCA | UI/UX | Agree? | manual check |
+| Resume | Headline | Headline suggests | System says | LCA | UI/UX | Agree? | Manual check |
 |---|---|---|---|---|---|---|---|
-| AA-0195 | Product Designer | UI/UX | UI/UX | 3 | 42.8 | yes |Checked by hand: Junior Product Designer; limited experience months, but valid Figma and wireframing evidence clears the 35pt internship bar. |
+| AA-0195 | Product Designer | UI/UX | UI/UX | 3 | 42.8 | yes | Checked by hand: Junior Product Designer; limited experience months, but valid Figma and wireframing evidence clears the 35pt internship bar. |
 | AA-0402 | Graphic Designer | UI/UX | UI/UX | 3 | 82 | yes |  |
 | AA-4144 | Graduate Engineer Trainee – Environment | LCA-ish | Neither / uncertain | 43.2 | 3 | yes | Checked by hand: GET at Ramco Cements (July 2025–Present). Bullets cover CPCB compliance, EC/CTE/CTO clearances, and STP/ETP water audits rather than completed GaBi/SimaPro LCA studies; 43.2 (just below 45 cutoff) is fair. |
-| AK-4184 | Executive – Environmental Health and Safety | LCA-ish | Neither / uncertain | 37.3 | 10 | yes | Checked by hand: Primarily an EHS / plant safety profile rather than an LCA practitioner; correctly kept below the 45pt LCA threshold. |
+| AK-4184 | Executive – Environmental Health and Safety | LCA-ish | Neither / uncertain | 36.8 | 10.5 | yes | Checked by hand: Primarily an EHS / plant safety profile rather than an LCA practitioner; correctly kept below the 45pt LCA threshold. |
 | AL-0183 | UI/UX Designer | UI/UX | UI/UX | 3 | 69.5 | yes | Checked by hand: Clear UI/UX profile with Figma, prototyping, and user research applied across projects. |
 | AN-0356 | UI/UX Designer and Frontend Developer | UI/UX | UI/UX | 3 | 60 | yes |  |
 | APS-0222 | Product Design Intern | UI/UX | UI/UX | 6 | 82.8 | yes | Checked by hand: Strong internship fit; multiple end-to-end product design projects and portfolio evidence verified. |

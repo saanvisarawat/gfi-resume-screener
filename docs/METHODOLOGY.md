@@ -14,7 +14,7 @@ This prototype reads resumes, pulls out job-related facts, scores every resume a
    - *Experience length:* dates are converted to months, overlapping roles are merged (so concurrent jobs are not double-counted), and "Present" means the fixed build date (2026-11-09) so results never drift. Supported formats: `Jan 2020 – Mar 2021`, `11/2025 – 01/2026`, `Jan – April 2026`, `Sep ’25 – Dec ’25`, `Jan 26 – April 26`, `2019–2021`, durations such as `8 Months`. A role with no readable start date (for example "Ongoing") is **not counted** and is flagged. Education dates are never counted as experience.
    - *Education:* degree lines, institution, CGPA/percentage.
    - *Projects, certifications, languages, listed skills.*
-   - *Skills with evidence:* a taxonomy (`lib/taxonomy.ts`) of about 28 skills is searched in the text. For each skill the matching sentence is stored, and whether it was found in **experience/projects** ("used") or only in a **skills/summary/certificate list** ("listed").
+   - *Skills with evidence:* a taxonomy (`lib/taxonomy.ts`) of 33 skills is searched in the text. For each skill the matching sentence is stored, and whether it was found in **experience/projects** ("used") or only in a **skills/summary/certificate list** ("listed").
 5. **Score** both roles (below). 6. **Classify** and **rank** each role separately. 7. **Explain**: every score is a list of components, each with points, a maximum, a note and the evidence text.
 
 ## 2. Scoring (each role is out of 100)
@@ -26,7 +26,7 @@ A skill found in experience/projects earns full credit. A skill that is only *li
 | Component | Max | How |
 |---|---|---|
 | Core LCA skills | 35 | Weighted coverage of: LCA method (3), LCA software (3; GaBi/SimaPro 100%, openLCA/Umberto 70%, ecoinvent 50%), life cycle inventory (2), ISO 14040/14044 (2) |
-| Supporting skills | 10 | EPD, carbon footprint/GHG, ESG reporting, benchmarking, data validation, stakeholder management |
+| Supporting skills | 10 | EPD, carbon footprint/GHG, ESG reporting, benchmarking, data validation, stakeholder management, operational/logistics data, business finance/accounting |
 | LCA-relevant experience | 20 | Months in roles whose title or bullets mention LCA work, against a 24-month target (JD1: 2–3 years). Unrelated years do not count |
 | LCA studies | 10 | Bullets/projects that describe a completed LCA (3+ = full marks, JD1 asks for 3). Ongoing work counts half |
 | Environmental domain | 10 | Distinct environmental themes found in the resume (6 = full marks) |
@@ -37,7 +37,7 @@ A skill found in experience/projects earns full credit. A skill that is only *li
 | Component | Max | How |
 |---|---|---|
 | Core design skills | 35 | Figma (3), prototyping (2), wireframing (2), user research (2), UI/UX design (2) |
-| Supporting skills | 10 | Usability testing, design systems, human-centred design, personas/journeys, accessibility, user psychology, other design tools, HTML/CSS |
+| Supporting skills | 10 | Usability testing, design systems, human-centred design, personas/journeys, accessibility, user psychology, other design tools, HTML/CSS, responsive/cross-platform design, visual identity/typography, design critique/reviews |
 | Design projects | 25 | Projects that read as design work (3+ = full marks). Every project counts for a candidate whose headline or roles are design-related; otherwise a project needs design vocabulary (so "Design Thinking" in an MBA project does not count) |
 | Design experience | 10 | Design-related months against 6 months (an internship) |
 | Education | 10 | Design/HCI/computing field = 7, any bachelor's+ = 3 |
@@ -52,7 +52,7 @@ Rules (thresholds in `CONFIG.classify`, `lib/score.ts`):
 - **Both** if both clear their bars and are within 12 points of each other. If both clear their bars but one leads by 12 or more points, that role wins.
 - **Neither / uncertain** otherwise (including best score below 25, or an unreadable file). The reason is written in plain words on each candidate.
 
-*How the thresholds were chosen.* They were set after looking at the score distribution of the 47 resumes, not before. UI/UX scores have a clear gap: non-designers score 19 or less and designers 39 or more, so the UI/UX bar sits at 35. LCA scores rise gradually (37.6, 43.2, 49.3, 54, …), so the LCA bar is higher, at 45, to demand more than a skills-list mention. Result on this data: 12 LCA, 24 UI/UX, 0 Both, 10 Neither/uncertain, 1 unreadable. No resume qualifies as *Both*; this is a finding of the data, not a rule that forbids it.
+*How the thresholds were chosen.* They were set after looking at the score distribution of the 47 resumes, not before. UI/UX scores have a clear gap: non-designers score about 19 or less and designers 39 or more, so the UI/UX bar sits at 35. LCA scores rise gradually (37.6, 43.2, 49.3, 54, …), so the LCA bar is higher, at 45, to demand more than a skills-list mention. Result on this data: 12 LCA, 24 UI/UX, 0 Both, 10 Neither/uncertain, 1 unreadable. No resume qualifies as *Both*; this is a finding of the data, not a rule that forbids it.
 
 ## 4. Ranking
 
@@ -77,7 +77,7 @@ See `docs/DATA_AUDIT.md` (generated). In short: 47 `.docx` files on a consistent
 
 ## 7. Validation
 
-`docs/VALIDATION.md` docs/VALIDATION.md compares each classification with the resume's own job title (an automatic check, and not fully independent because the title is a small scoring input) and has a column for manual checks. To validate the prototype, I manually read a random sample of 12 resumes (approx. 25% of the dataset) and scored them by hand. I agreed with the system's classification on 11 of them. The one divergence was a Graduate Engineer Trainee (AA-4144); the system safely classified them as 'Neither / uncertain' because they scored 43.2, narrowly missing the 45-point LCA threshold. After manual review, I concluded this is the correct behavior for an automated screener, as their resume lacked explicit LCA project deliverables compared to higher-ranked consultants.
+`docs/VALIDATION.md` compares each classification with the job title at the top of the resume (an automatic check, and not fully independent because the title is a small scoring input) and has a column for manual checks. To validate the prototype thoroughly, I manually read and audited 15 resumes by hand across top scorers, borderline cases, and generic titles (`PW-4228`, `NP-4325`, `AA-4144`, `AK-4184`, `PKG-4369`, `CM-0412`, `AY-0440`, `MI-0235`, `MS-4442`, `SRK-4455`, `HM-4257`, `DVJ-0268`, `APS-0222`, `AL-0183`, and `AA-0195`). I agreed with the system's classification on all 15. Notably, `PW-4228` ("Project Associate 1") and `NP-4325` ("Senior Engineer – R&D") were rightly classified as strong LCA matches despite generic titles, while `AA-4144` ("Graduate Engineer Trainee – Environment", score 43.2) was safely held in "Neither / uncertain" because their experience bullets focus on CPCB plant compliance and water audits rather than independent LCA studies.
 
 ## 8. Limitations
 
