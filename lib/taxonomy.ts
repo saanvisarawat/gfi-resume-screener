@@ -19,6 +19,8 @@ export const SKILLS: SkillDef[] = [
   S("benchmark", "Benchmarking", /\bbenchmark\w*/i),
   S("datawork", "Data collection / validation", /\bdata (?:validation|quality|collection|compilation|analysis|analytics)\b/i),
   S("stakeholder", "Stakeholder / client management", /\b(?:stakeholders?|client (?:management|engagement|communication|contact))\b/i),
+  S("logistics", "Operational / logistics data", /\b(?:logistics|transportation|supply chain|suppliers?|operational data)\b/i),
+  S("finance", "Business finance / accounting", /\b(?:accounting|business finance|financial analysis|cost[- ]benefit)\b/i),
   // ---- UI/UX role (JD2) ----
   S("figma", "Figma", /\bfigma\b/i),
   S("prototyping", "Prototyping", /\bprototyp\w*/i),
@@ -33,6 +35,9 @@ export const SKILLS: SkillDef[] = [
   S("psychology", "User psychology", /\b(?:user|behaviou?ral|cognitive) psychology\b|\bpsychology\b/i),
   S("designtools", "Other design tools", /\b(?:adobe xd|sketch|framer|invision|maze|miro|figjam|uizard|canva|photoshop|illustrator)\b/i),
   S("frontend", "HTML / CSS", /\b(?:html|css)\b/i),
+  S("responsive", "Responsive / cross-platform design", /\b(?:responsive|cross[- ]platform|multi[- ]device|mobile[- ]first)\b/i),
+  S("visualidentity", "Visual identity / typography", /\b(?:visual identity|brand(?:ing)? guidelines|design language|typography|colou?r (?:theory|palette)|style guides?)\b/i),
+  S("critique", "Design critique / reviews", /\b(?:design critiques?|design reviews?|feedback sessions?)\b/i),
   S("portfolio", "Portfolio link", /\b(?:behance|dribbble)\b|\bportfolio (?:site|website|link|url)\b|\bportfolio:|https?:\/\/|\bwww\./i),
 ];
 export const SKILL_BY_ID = Object.fromEntries(SKILLS.map(s => [s.id, s]));

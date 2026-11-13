@@ -24,13 +24,13 @@ const LCA_MUST: { key: string; label: string; w: number; ids: Record<string, num
   { key: "iso", label: "ISO 14040/14044", w: 2, ids: { iso14040: 1 } },
 ];
 const LCA_NICE: { id: string; w: number }[] = [
-  { id: "epd", w: 2 }, { id: "footprint", w: 2 }, { id: "esg", w: 1 }, { id: "benchmark", w: 1 }, { id: "datawork", w: 1 }, { id: "stakeholder", w: 1 },
+  { id: "epd", w: 2 }, { id: "footprint", w: 2 }, { id: "esg", w: 1 }, { id: "benchmark", w: 1 }, { id: "datawork", w: 1 }, { id: "stakeholder", w: 1 }, { id: "logistics", w: 1 }, { id: "finance", w: 1 },
 ];
 const UI_MUST: { id: string; w: number }[] = [
   { id: "figma", w: 3 }, { id: "prototyping", w: 2 }, { id: "wireframing", w: 2 }, { id: "userresearch", w: 2 }, { id: "uidesign", w: 2 },
 ];
 const UI_NICE: { id: string; w: number }[] = [
-  { id: "usability", w: 2 }, { id: "designsystem", w: 2 }, { id: "hcd", w: 1 }, { id: "persona", w: 1 }, { id: "accessibility", w: 1 }, { id: "psychology", w: 1 }, { id: "designtools", w: 1 }, { id: "frontend", w: 1 },
+  { id: "usability", w: 2 }, { id: "designsystem", w: 2 }, { id: "hcd", w: 1 }, { id: "persona", w: 1 }, { id: "accessibility", w: 1 }, { id: "psychology", w: 1 }, { id: "designtools", w: 1 }, { id: "frontend", w: 1 }, { id: "responsive", w: 1 }, { id: "visualidentity", w: 1 }, { id: "critique", w: 1 },
 ];
 
 // ------------------------------------------------------------------ helpers
