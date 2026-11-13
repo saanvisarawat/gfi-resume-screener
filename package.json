@@ -23,8 +23,6 @@
   },
   "devDependencies": {
     "@google/genai": "^3.2.0",
-    "@tailwindcss/turbopack": "^4",
-    "@types/dotenv": "^6.1.1",
     "@types/node": "^20",
     "@types/react": "^19",
     "@types/react-dom": "^19",

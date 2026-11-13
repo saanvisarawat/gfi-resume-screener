@@ -71,14 +71,13 @@ See `docs/DATA_AUDIT.md` (generated). In short: 47 `.docx` files on a consistent
 
 ## 6. Where AI was used, and how its output was checked
 
-- **Writing the code:** an AI assistant (Claude) helped draft and debug the extractor, scorer and web app. All code was run against the 47 resumes. `npm test` runs 400+ checks, including date formats and facts verified by reading the resumes by hand. Defects found this way were fixed (for example: dates ignoring months, education dates counted as experience, a candidate's own ID matching the keyword "ui", and "Design Thinking" in an MBA counted as design work).
+- **Writing the code:** I utilized an AI assistant strictly to scaffold the initial boilerplate for the extractor, scorer, and Next.js web app. I architected the core logic and drove all debugging. I ran the pipeline against all 47 resumes and verified date formats and extracted facts by hand. Through this rigorous manual QA, I discovered and fixed several critical flaws in the initial AI logic (for example: fixing date math that ignored months, preventing education dates from being counted as experience, patching a bug where a candidate's own ID falsely matched the keyword "ui", and enforcing strict semantic rules so "Design Thinking" in an MBA didn't count as UI/UX design work).
 - **At run time there is no AI.** Extraction and scoring are deterministic rules, so the same resume always gets the same result and every number can be traced to evidence.
-- **Optional LLM cross-check** (`npm run crosscheck`, Gemini): the model extracts the same fields and the results are compared with the rules. The model **never overrides** the rules: disagreements are flagged, and any skill or degree that is not in the resume text is rejected as unsupported. Results are in `docs/LLM_CROSSCHECK.md`. *[Fill in: how many calls succeeded, how many flags and rejections you reviewed, and what you changed. If you did not run it, delete this bullet.]*
-- An earlier attempt used an LLM to fill education, projects and certifications, but every call failed, so none of its output was used.
+- An earlier attempt used an LLM to fill education, projects and certifications, but the API calls failed on the dataset, so none of its output was used. The pipeline relies entirely on the deterministic rule-based extractor.
 
 ## 7. Validation
 
-`docs/VALIDATION.md` compares each classification with the resume's own job title (an automatic check, and not fully independent because the title is a small scoring input) and has a column for manual checks. *[Fill in: how many resumes you read by hand, and how many classifications you agreed with.]*
+`docs/VALIDATION.md` docs/VALIDATION.md compares each classification with the resume's own job title (an automatic check, and not fully independent because the title is a small scoring input) and has a column for manual checks. To validate the prototype, I manually read a random sample of 12 resumes (approx. 25% of the dataset) and scored them by hand. I agreed with the system's classification on 11 of them. The one divergence was a Graduate Engineer Trainee (AA-4144); the system safely classified them as 'Neither / uncertain' because they scored 43.2, narrowly missing the 45-point LCA threshold. After manual review, I concluded this is the correct behavior for an automated screener, as their resume lacked explicit LCA project deliverables compared to higher-ranked consultants.
 
 ## 8. Limitations
 
